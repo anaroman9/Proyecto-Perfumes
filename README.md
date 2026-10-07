@@ -1,2 +1,2 @@
 # Proyecto-Perfumes
-Este repositorio es diseñado para la asignatura de programacion y diseño de aplicaciones 
+Este desarrollo web esta diseñado para la comercializacion de perfumes. 
